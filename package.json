@@ -1,0 +1,15 @@
+{
+  "name": "raspicam2",
+  "version": "0.0.0",
+  "description": "Raspicam module based off C++ bindings2",
+  "main": "raspicam2.js",
+  "private": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node raspicam2.js"
+  },
+  "gypfile": true
+}
